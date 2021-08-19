@@ -1,2 +1,4 @@
 def hello():
-    pass
+    print("hi")
+
+print(hello())
